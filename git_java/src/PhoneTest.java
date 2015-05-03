@@ -54,6 +54,7 @@ public class PhoneTest {
 		ArrayTools.printArray(arr);
 		int max = ArrayTools.getMax(arr);
 		System.out.println("max:"+max);
+		System.out.println("this is test");
 	}
 	
 
